@@ -1,0 +1,9 @@
+1) Puxe da DEX_ABANDONO_AR, o valor que se encontra na coluna PRECO, e que seja igual a 100
+
+2) Retorne a quantidade de linhas da SUP_PRODUTOS_BR
+
+3) Retorne um array da SUP_PRODUTOS_AR com 5 linhas, que possuem o PRECO_POR = 200 em ordem crescente
+
+4) Traga do array do ex anterior a primeira linha, e exiba no HTML o valor contido no campo NOME_PROD
+
+5) Insira na SUP_PRODUTOS uma linha com o nome Impressora e o valor de 300
